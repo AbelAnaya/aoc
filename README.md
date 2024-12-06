@@ -1,5 +1,5 @@
 <h1 align="center">
-    Advent of Code Solutions [2024] 🎅🎄
+    Advent of Code Solutions 2024 🎅🎄🎁
 </h1>
 
 <h4 align="center">
